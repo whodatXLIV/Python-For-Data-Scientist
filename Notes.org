@@ -1,0 +1,11 @@
+* When to use each machine learning technique
+** Supervised Learning
+*** Linear regression
+- When the data apears to be linear
+- To start models out and understand the data
+- Single dependent variable
+- Continuous dependent variable
+*** Logistic regression
+- When the dependent variable is binary in linear regression
+- Classification
+** Un-supervised learning
